@@ -2,7 +2,7 @@
 Introdução ao Copilot para Microsoft 365.
 
 
-## Introdução
+## Introdução 
 
 > O Microsoft Copilot para Microsoft 365 aplica o poder da IA para aumentar a produtividade, desbloquear a
 > criatividade e ajudar os usuários a entender melhor as informações com um chat simples. 
